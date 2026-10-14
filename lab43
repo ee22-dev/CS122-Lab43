@@ -1,1 +1,14 @@
 
+# lab 4-8 prime numbers
+# pseduocode: to decide N is a prime or not
+# for number in 2 to N -1:
+#   if each number divides N evenly:
+#       N is not prime; 
+#       break;
+# Exist x, x > 10 , x = {2, 3, 5, 7, 15}
+# you can decide True in the middle of the set, but you can not decide True in the end of the set.
+# you can decide False at the end of the set
+
+# Not exist x, x > 10 , x = {12, 3, 5, 7, 15}
+# you can false in the middle of the loop, but you can not false in the end of the set.
+
